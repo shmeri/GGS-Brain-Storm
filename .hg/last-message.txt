@@ -1,0 +1,1 @@
+Added RegisterController. Added a few "html" files for checking.Fixed some methods in AuthorServiceImpl.
